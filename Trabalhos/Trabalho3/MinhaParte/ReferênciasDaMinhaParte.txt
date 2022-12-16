@@ -1,0 +1,8 @@
+REFERÊNCIAS DA MINHA PARTE DO TRABALHO:
+
+https://www.youtube.com/watch?v=7XS94IUHEDg - Me ensinou sobre Queue, ou Fila, com os genéricos.
+https://www.youtube.com/watch?v=zarKbtlxTRY - Me ensinou sobre Fila também, porém sem os genéricos.
+https://www.youtube.com/watch?v=kpN9whxLxFM - Me ensinou sobre Iterator com a Queue, ou Fila com os genéricos.
+https://www.youtube.com/watch?v=nF1ZHlat2R8 - Me ensinou sobre Iterator com Fila, porém sem os genéricos.
+https://www.youtube.com/watch?v=Gh636gK-2w8 - Me ensinou a lógica de Fila.
+https://www.youtube.com/watch?v=m_FyTWpa3Kk - Código que peguei a lógica e usei como base.

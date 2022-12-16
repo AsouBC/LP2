@@ -1,0 +1,5 @@
+Turma: Informática 3
+Aluno: Artur Borges Corrêa - 20202000348
+Aluno: Caio César Nascimento Silva - 20202001013
+Aluno: Igor Richard Dias Silva - 20202000571
+Como rodar o programa:

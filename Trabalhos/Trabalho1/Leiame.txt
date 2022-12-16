@@ -1,0 +1,7 @@
+Turma: Informática 3
+Aluno: Artur Borges Corrêa - Número: 03
+Aluno: Caio César Nascimento Silva - Número: 05
+Aluno: Igor Richard Dias Silva - Número: 13
+Como rodar o programa:
+Se possuir um compilador de JAVA via Vs Code, ou similares, basta somente executar o arquivo "ordenar.java".
+O programa já está pré-configurado para os 9 arquivos de exemplo.
